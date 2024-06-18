@@ -11,5 +11,5 @@ Contents:
 ## Contributors
 
 <a href="https://github.com/MalithaPrabhashana/self-sorting-garbage-bin/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=Gayanukaa/companyA-frontend" />
+  <img src="https://contrib.rocks/image?repo=MalithaPrabhashana/self-sorting-garbage-bin" />
 </a>
