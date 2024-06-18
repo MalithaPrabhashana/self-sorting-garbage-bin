@@ -7,3 +7,9 @@ Contents:
   <li>Simulink models for system control and automation</li>
   <li>Documentation and design specifications</li>
 </ul>
+
+## Contributors
+
+<a href="https://github.com/MalithaPrabhashana/self-sorting-garbage-bin/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=Gayanukaa/companyA-frontend" />
+</a>
