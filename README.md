@@ -14,6 +14,14 @@ This repository contains MATLAB and Simulink files for the project "Self-Sorting
   <img src="https://contrib.rocks/image?repo=MalithaPrabhashana/self-sorting-garbage-bin" />
 </a>
 
+<a href="https://github.com/TharinduPrabath2001">
+  <img src="https://github.com/TharinduPrabath2001.png" />
+</a>
+
+<a href="https://github.com/MalithaPrabhashana/self-sorting-garbage-bin/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=MalithaPrabhashana/self-sorting-garbage-bin" />
+</a>
+
 <table>
   <tr>
     <td align="center">
