@@ -2,6 +2,10 @@
 
 This repository contains MATLAB and Simulink files for the project "Self-Sorting Garbage Bin for Office Environments." The project aims to design and implement an intelligent garbage bin that automatically sorts office waste into paper, polythene, and hard plastic categories. The system uses advanced sensors and automation to improve recycling efficiency and promote sustainable waste management practices in office settings.
 
+<div align="center">
+  <img src="Waste%20Sorting%20Robot.PNG" alt="Self-Sorting Garbage Bin" width="250"/>
+</div>
+
 ## Contents:
 <ul>
   <li>MATLAB code for sensor integration and waste identification</li>
