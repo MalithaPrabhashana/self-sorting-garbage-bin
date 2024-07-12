@@ -2,6 +2,10 @@
 
 A Technological-Sustainable Approach to Office Waste Reduction
 
+## Contributors
+
+<img src="https://contrib.rocks/image?repo=MalithaPrabhashana/self-sorting-garbage-bin" alt="contributors" />
+
 ## Table of Contents
 1. [Introduction](#introduction)
 2. [Project Overview](#project-overview)
