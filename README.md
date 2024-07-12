@@ -32,11 +32,8 @@ The parts of the dustbin were designed using SolidWorks. The design includes:
 - **Main Bin Structure**: The primary framework of the self-sorting bin.
 - **Sorting Mechanism**: Components responsible for waste segregation.
 
-![Main Bin Structure](images/main_bin_structure.png)
+![Main Bin Structure](Images/main_bin_structure.png)
 *Main Bin Structure designed in SolidWorks*
-
-![Sorting Mechanism](images/sorting_mechanism.png)
-*Sorting Mechanism designed in SolidWorks*
 
 The SolidWorks files are located in the `SolidWorks` directory of this repository.
 
@@ -45,7 +42,7 @@ Simulink models were used to simulate the behavior of the self-sorting bin. Thes
 - **Sensor Data Processing**: Interprets data from sensors to identify waste types.
 - **Control Logic**: Manages the sorting mechanism based on sensor input.
 
-![Simulink Model](images/simulink_model.png)
+![Simulink Model](Images/simulink_model.png)
 *Simulink model of the self-sorting bin*
 
 The Simulink files are located in the `Simulink` directory of this repository.
