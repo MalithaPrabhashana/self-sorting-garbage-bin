@@ -35,8 +35,6 @@ The parts of the dustbin were designed using SolidWorks. The design includes:
 ![Main Bin Structure](Images/main_bin_structure.png)
 *Main Bin Structure designed in SolidWorks*
 
-The SolidWorks files are located in the `SolidWorks` directory of this repository.
-
 ### MATLAB Simulink
 Simulink models were used to simulate the behavior of the self-sorting bin. These models include:
 - **Sensor Data Processing**: Interprets data from sensors to identify waste types.
@@ -45,14 +43,10 @@ Simulink models were used to simulate the behavior of the self-sorting bin. Thes
 ![Simulink Model](Images/simulink_model.png)
 *Simulink model of the self-sorting bin*
 
-The Simulink files are located in the `Simulink` directory of this repository.
-
 ### MATLAB Code
 MATLAB scripts were developed to process sensor data and control the sorting mechanism. These scripts include:
 - **Data Acquisition**: Collects data from sensors.
 - **Sorting Algorithm**: Determines the appropriate bin for each waste type.
-
-The MATLAB files are located in the `MATLAB` directory of this repository.
 
 ## Usage
 To use the self-sorting garbage bin system:
@@ -64,10 +58,6 @@ To use the self-sorting garbage bin system:
 - **Prabath P T** - [prabathpt.21@uom.lk](mailto:prabathpt.21@uom.lk)
 - **Prabhashana M R M** - [prabhashanamrm.21@uom.lk](mailto:prabhashanamrm.21@uom.lk)
 - **Prabhashwara H M R** - [prabhashwarahmr.21@uom.lk](mailto:prabhashwarahmr.21@uom.lk)
-
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ---
 
 We hope this project contributes to a more sustainable and eco-friendly office environment. For more information, refer to the research paper included in this repository.
