@@ -32,8 +32,11 @@ The parts of the dustbin were designed using SolidWorks. The design includes:
 - **Main Bin Structure**: The primary framework of the self-sorting bin.
 - **Sorting Mechanism**: Components responsible for waste segregation.
 
-![Main Bin Structure](Images/main_bin_structure.png)
-*Main Bin Structure designed in SolidWorks*
+<p align="center">
+  <img src="Images/main_bin_structure.png" alt="Main Bin Structure" width="300"/>
+</p>
+<p align="center"><em>Main Bin Structure designed in SolidWorks</em></p>
+
 
 ### MATLAB Simulink
 Simulink models were used to simulate the behavior of the self-sorting bin. These models include:
@@ -48,6 +51,21 @@ MATLAB scripts were developed to process sensor data and control the sorting mec
 - **Data Acquisition**: Collects data from sensors.
 - **Sorting Algorithm**: Determines the appropriate bin for each waste type.
 
+
+## Tools Used
+
+This project utilized various software tools for design, simulation, and documentation:
+
+| Tool       | Description                                             |
+|------------|---------------------------------------------------------|
+| <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matlab_Logo.png/640px-Matlab_Logo.png" alt="MATLAB" width="80"/> | MATLAB: Used for data analysis and algorithm development. |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/3/36/Simulink_Logo_%28non-wordmark%29.png" alt="Simulink" width="80"/> | Simulink: Employed for modeling and simulating dynamic systems. |
+| <img src="https://banner2.cleanpng.com/20180425/kqw/kisspng-computer-icons-solidworks-e-5ae0fa43334702.1540505415246935712101.jpg" alt="SolidWorks" width="80"/> | SolidWorks: Used for 3D modeling and mechanical design. |
+| <img src="https://images.ctfassets.net/nrgyaltdicpt/1J4QC1FAdsyTZ4bCzHB84N/d5cb0409b631854bfacf81a7dd2189fc/overleaf-logo-primary.png" alt="LaTeX (Overleaf)" width="80"/> | LaTeX (Overleaf): Utilized for preparing high-quality documents and reports. |
+
+
+
+  
 ## Usage
 To use the self-sorting garbage bin system:
 1. **Design Setup**: Review the SolidWorks files and set up the bin structure.
